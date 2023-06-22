@@ -8,6 +8,13 @@ The JavaFX Chat App is a desktop application that enables users to engage in rea
 - **Chat Rooms:** Join different chat rooms and engage in group conversations with other users.
 - **Private Messaging:** Send private messages to individual users for one-on-one communication.
 
+## Demo
+
+![alt text](https://media.discordapp.net/attachments/748527325741842453/1121562190294548641/login3.PNG?width=1196&height=864)
+![alt text](https://media.discordapp.net/attachments/748527325741842453/1121562191116632084/register3.PNG?width=1198&height=806)
+![alt text](https://media.discordapp.net/attachments/748527325741842453/1121562190781091921/panel3.PNG?width=978&height=870)
+
+
 ## How to Use
 
 To start using the JavaFX Chat App, follow these simple steps:
